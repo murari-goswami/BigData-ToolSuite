@@ -1,0 +1,15 @@
+INFO:root:The configuration file is FileReplaceConfig.cfg
+INFO:root:Reading the configuration file to extract the metadata file
+INFO:root:The landing directory is :C:\Personal\Python\Toolset
+INFO:root:The data file name is : indras_call_det_20150316.txt
+
+INFO:root:The current path is : C:\Personal\Python\Toolset
+INFO:root:The path to change to : C:\Personal\Python\Toolset
+INFO:root:The Reader file is indras_call_det_20150316.txt
+
+INFO:root:datafile is indras_call_det_20150316.txt
+
+INFO:root:The writer file is new_indras_call_det_20150316.txt
+
+INFO:root:The replacement File generation is completed
+INFO:root:The programme finished
